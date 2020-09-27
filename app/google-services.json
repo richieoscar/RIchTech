@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493745440326",
+    "firebase_url": "https://richtech-897ce.firebaseio.com",
+    "project_id": "richtech-897ce",
+    "storage_bucket": "richtech-897ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493745440326:android:e822b091fbfe1c22f82c47",
+        "android_client_info": {
+          "package_name": "com.example.richtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493745440326-96via7javhhuslmad757t114glq2l2q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.richtech",
+            "certificate_hash": "ba242307abc9000f7b0932be0c8866d9ad3ce627"
+          }
+        },
+        {
+          "client_id": "493745440326-u78fpo6thtbk1182j3n9f7pqn2l2riki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKkNd9nQS3z0cbjCQT3C0SK64E7PuxXw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493745440326-u78fpo6thtbk1182j3n9f7pqn2l2riki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
